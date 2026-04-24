@@ -1,5 +1,7 @@
 # Suheil Khourieh
 
+![](https://komarev.com/ghpvc/?username=suheilkhou&style=pixel)
+
 Information Systems Engineering student at the Technion, focused on machine learning and software engineering. This profile collects my coursework — the repositories below are grouped by course.
 
 ## Education
